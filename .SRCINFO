@@ -5,6 +5,7 @@ pkgbase = udpspeeder
         url = https://github.com/wangyu-/UDPspeeder
         arch = i686
         arch = x86_64
+        arch = aarch64
         license = MIT
         depends = gcc-libs
         source = udpspeeder-20210116.0.tar.gz::https://github.com/wangyu-/UDPspeeder/archive/refs/tags/20210116.0.zip
