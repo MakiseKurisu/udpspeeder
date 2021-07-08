@@ -9,7 +9,7 @@ arch=('i686' 'x86_64' 'aarch64')
 url="https://github.com/wangyu-/UDPspeeder"
 license=('MIT')
 depends=('gcc-libs')
-source=("$pkgname-$pkgver.tar.gz::https://github.com/wangyu-/UDPspeeder/archive/refs/tags/$pkgver.zip")
+source=("$pkgname-$pkgver.tar.gz::https://github.com/wangyu-/UDPspeeder/archive/refs/tags/$pkgver.tar.gz")
 sha256sums=('657ae24dfd592a1f6f114342231b24d09baec712957969f425477b9f9fd5994a')
 
 prepare() {
